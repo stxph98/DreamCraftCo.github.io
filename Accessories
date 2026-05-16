@@ -1,8 +1,13 @@
 <!DOCTYPE html>
-<link rel="stylesheet" type="text/css" href="https://DreamCraftCo.github.io/style.css">
 <html>
-    <body>
-        <h1>Hello World</h1>
-        <p>I'm under construction!</p>
-    </body>
+    <head>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+<body>
+
+<h1>Accesories</h1>
+
+<p>I'm under construction!</p>
+
+</body>
 </html>
