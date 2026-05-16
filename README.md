@@ -1,4 +1,11 @@
 # stxph98.github.io
 
-[About Us](about.html)
+[Home](home.html)
 
+[New Arrivals](new arrivals.html)
+
+[Shop All](shop all.html)
+
+[Apparel](apparel.html)
+
+[Accessories](accessories.html)
