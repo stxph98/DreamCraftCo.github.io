@@ -2,9 +2,9 @@
 
 [Home](home.html)
 
-[New Arrivals](new arrivals.html)
+[New Arrivals](newarrivals.html)
 
-[Shop All](shop all.html)
+[Shop All](shopall.html)
 
 [Apparel](apparel.html)
 
