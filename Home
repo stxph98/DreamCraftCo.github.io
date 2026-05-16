@@ -1,5 +1,13 @@
----
-title: Home
-layout: page
-permalink: https://DreamCraftCo.github.io/stxph98
----
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+<body>
+
+<h1>Home</h1>
+
+<p>I'm under construction!</p>
+
+</body>
+</html>
