@@ -3,3 +3,12 @@ title: Accessories
 layout: page
 permalink: https://DreamCraftCo.github.io/stxph98
 ---
+
+<!DOCTYPE html>
+<link rel="stylesheet" type="text/css" href="https://DreamCraftCo.github.io/style.css">
+<html>
+    <body>
+        <h1>Hello World</h1>
+        <p>I'm under construction!</p>
+    </body>
+</html>
