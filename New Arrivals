@@ -1,5 +1,13 @@
----
-title: New Arrivals
-layout: page
-permalink: https://DreamCraftCo.github.io/DreamCraftCo
----
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+<body>
+
+<h1>New Arrivals</h1>
+
+<p>I'm under construction!</p>
+
+</body>
+</html>
