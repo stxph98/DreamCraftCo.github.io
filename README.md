@@ -8,4 +8,4 @@
 
 [Apparel](apparel.html)
 
-[Accessories](accessories.html)
+[Accessories](Accesories.html)
