@@ -1,11 +1,11 @@
-# DreamCraftCo.github.io
+# DreamCraftCo
 
-[Home](home.html)
+[Home](Home.html)
 
-[New Arrivals](newarrivals.html)
+[New Arrivals](NewArrivals.html)
 
-[Shop All](shopall.html)
+[Shop All](ShopAll.html)
 
-[Apparel](apparel.html)
+[Apparel](Apparel.html)
 
 [Accessories](Accesories.html)
